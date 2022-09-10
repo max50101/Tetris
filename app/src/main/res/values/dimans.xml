@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="layout_margit_top">16dp</dimen>
+<dimen name="layout_margit_bottom">16dp</dimen>
+<dimen name="layout_margit_start">16dp</dimen>
+<dimen name="layout_margit_end">16dp</dimen>
+<dimen name="layout_margit_vertical">16dp</dimen>
+</resources>
